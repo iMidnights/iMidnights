@@ -10,6 +10,6 @@ You can reach me over on discord at **iMidnight#7298** or on Twitter at [**@iMid
 ### 📝 I’m currently learning 
   - Node.js.
   - Javascript.
-  - HTML & CSS. (Trying to improve my skills)
+  - HTML & CSS. (Trying to improve)
 
 ---
