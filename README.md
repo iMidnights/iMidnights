@@ -4,12 +4,12 @@ You can reach me over on discord at **iMidnight#7298** or on Twitter at [**@iMid
 
 ### 😶‍🌫️ My current projects are:
   - Soft UI, A [discord-dashboard](https://github.com/Assistants-Center/Discord-Dashboard) 
-    theme for discord.js alongside (unreleased).
+    theme for discord.js alongside [PlainDevelopment](https://github.com/PlainDevelopment) (unreleased).
   - Dark Dashboard, A simple [discord-dashboard](https://github.com/Assistants-Center/Discord-Dashboard) theme for quick and easy setup.
   - My own personal website, [here](https://imidnight.dev), (currently in the process of a new one).
 ### 📝 I’m currently learning 
   - Node.js.
   - Javascript.
-  - HTML & CSS. (Trying to improve)
+  - HTML & CSS.
 
 ---
