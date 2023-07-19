@@ -9,7 +9,7 @@ You can reach me over on discord at **iMidnight#1800** or on Twitter at [**@iMid
   - My own personal website, [here](https://imidnight.dev), (currently in the process of a new one).
 ### 📝 I’m currently learning 
   - Node.js.
-  - Javascript.
-  - HTML & CSS.
+  - Typescript.
+  - React.
 
 ---
