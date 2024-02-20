@@ -11,5 +11,6 @@ You can reach me over on discord at **iMidnight#1800** or on Twitter at [**@iMid
   - Node.js.
   - Typescript.
   - React.
+  - Pyhton
 
 ---
