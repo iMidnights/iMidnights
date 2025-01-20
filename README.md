@@ -1,5 +1,5 @@
 ### Hey! It seems you've stumbled into my profile :) 👋
-You can reach me over on discord at **iMidnight#1800** or on Twitter at [**@iMidnight4**](https://twitter.com/iMidnight4).
+You can reach me over on discord at **iMidnight.** or on Twitter at [**@iMidnight4**](https://twitter.com/iMidnight4).
 
 
 ### 😶‍🌫️ My current projects are:
